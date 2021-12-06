@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1595238620 source:d:\empeded_system\diplma_embedded system\embeded_codes\lecture_8\lcd.c
+	"lcd.h"
+
+1595247546 source:d:\empeded_system\diplma_embedded system\embeded_codes\lecture_8\main.c
+	"includes.h"
+
+1595238445 d:\empeded_system\diplma_embedded system\embeded_codes\lecture_8\lcd.h
+
+1595238620 d:\empeded_system\diplma_embedded system\embeded_codes\lecture_8\includes.h
+	<stdio.h>
+	<stdlib.h>
+	"lcd.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601069167 source:d:\empeded_system\diplma_embedded system\embeded_codes\lec20_struct_union_enum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1601067500 d:\empeded_system\diplma_embedded system\embeded_codes\lec20_struct_union_enum\main.h
+

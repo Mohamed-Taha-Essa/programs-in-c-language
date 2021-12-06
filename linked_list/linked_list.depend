@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1602882595 source:d:\empeded_system\diplma_embedded system\embeded_codes\linked_list\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
+1602883708 source:d:\empeded_system\diplma_embedded system\embeded_codes\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
+1602198486 d:\empeded_system\diplma_embedded system\embeded_codes\linked_list\linked_list.h
+	"stdtypes.h"
+
+1602876347 d:\empeded_system\diplma_embedded system\embeded_codes\linked_list\stdtypes.h
+

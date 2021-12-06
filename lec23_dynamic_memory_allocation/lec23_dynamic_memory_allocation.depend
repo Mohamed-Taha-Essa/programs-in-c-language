@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601330125 source:d:\empeded_system\diplma_embedded system\embeded_codes\lec23_dynamic_memory_allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600209674 source:d:\empeded_system\diplma_embedded system\embeded_codes\lec19_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+

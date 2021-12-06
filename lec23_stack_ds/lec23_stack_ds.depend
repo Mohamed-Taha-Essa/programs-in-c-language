@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601278379 source:d:\empeded_system\diplma_embedded system\embeded_codes\lec23_stack_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1601278426 d:\empeded_system\diplma_embedded system\embeded_codes\lec23_stack_ds\main.h
+	"std_types.h "
+
+1601284884 source:d:\empeded_system\diplma_embedded system\embeded_codes\lec23_stack_ds\stack_ds.c
+	<stdio.h >
+	<stdlib.h>
+	"stack_ds.h"
+
+1601284884 d:\empeded_system\diplma_embedded system\embeded_codes\lec23_stack_ds\stack_ds.h
+	"std_types.h "
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603047042 source:d:\empeded_system\diplma_embedded system\embeded_codes\queue_ls\que_ls.c
+	<stdio.h>
+	<stdlib.h>
+	"que_ls.h"
+
+1603046963 d:\empeded_system\diplma_embedded system\embeded_codes\queue_ls\que_ls.h
+	"stdtypes.h"
+
+1602876347 d:\empeded_system\diplma_embedded system\embeded_codes\queue_ls\stdtypes.h
+
+1603046079 source:d:\empeded_system\diplma_embedded system\embeded_codes\taha_q\main.c
+	<stdio.h>
+	<stdlib.h>
+

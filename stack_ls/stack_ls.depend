@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1602892755 source:d:\empeded_system\diplma_embedded system\embeded_codes\stack_ls\stack_ls.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ls.h"
+
+1602892678 d:\empeded_system\diplma_embedded system\embeded_codes\stack_ls\stack_ls.h
+	"stdtypes.h"
+
+1602876347 d:\empeded_system\diplma_embedded system\embeded_codes\stack_ls\stdtypes.h
+
+1602892678 source:d:\empeded_system\diplma_embedded system\embeded_codes\stack_ls\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ls.h"
+

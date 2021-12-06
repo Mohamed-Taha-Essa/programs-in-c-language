@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1603050250 source:d:\empeded_system\diplma_embedded system\embeded_codes\taha_circ_ls\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circ_ls.h"
+
+1603050227 source:d:\empeded_system\diplma_embedded system\embeded_codes\taha_circ_ls\circ_ls.c
+	<stdio.h>
+	<stdlib.h>
+	"circ_ls.h"
+
+1603049021 d:\empeded_system\diplma_embedded system\embeded_codes\taha_circ_ls\circ_ls.h
+	"stdtypes.h"
+
+1602876347 d:\empeded_system\diplma_embedded system\embeded_codes\taha_circ_ls\stdtypes.h
+

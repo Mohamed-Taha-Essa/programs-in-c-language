@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598341265 source:d:\empeded_system\diplma_embedded system\embeded_codes\percptron2\main.cpp
+	"Perceptron2.h"
+
+1598278970 source:d:\empeded_system\diplma_embedded system\embeded_codes\percptron2\src\percptron.cpp
+	"Percptron.h"
+
+1598279006 d:\empeded_system\diplma_embedded system\embeded_codes\percptron2\include\percptron.h
+	<stdlib.h>
+
+1598340732 d:\empeded_system\diplma_embedded system\embeded_codes\percptron2\perceptron2.h
+	<iostream>
+	<time.h>
+	<math.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1603626259 source:d:\empeded_system\diplma_embedded system\embeded_codes\preprocessor_directive\main.c
+	<stdio.h>
+	<stdlib.h>
+	"preprocessor_directive.h"
+
+1603625971 d:\empeded_system\diplma_embedded system\embeded_codes\preprocessor_directive\preprocessor_directive.h
+	"stdtypes.h"
+	"lcd.h"
+
+1603625501 d:\empeded_system\diplma_embedded system\embeded_codes\preprocessor_directive\stdtypes.h
+
+1603626045 d:\empeded_system\diplma_embedded system\embeded_codes\preprocessor_directive\lcd.h
+	"stdtypes.h"
+
+1603626101 source:d:\empeded_system\diplma_embedded system\embeded_codes\preprocessor_directive\lcd.c
+	<stdio.h>
+	<stdlib.h>
+	"lcd.h"
+

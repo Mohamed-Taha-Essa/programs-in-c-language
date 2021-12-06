@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601496527 source:d:\empeded_system\diplma_embedded system\embeded_codes\queue_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue_ds.h"
+
+1601496706 source:d:\empeded_system\diplma_embedded system\embeded_codes\queue_ds\queue_ds.c
+	"queue_ds.h"
+
+1601494346 d:\empeded_system\diplma_embedded system\embeded_codes\queue_ds\queue_ds.h
+	"std_types.h"
+
+1601491140 d:\empeded_system\diplma_embedded system\embeded_codes\queue_ds\std_types.h
+

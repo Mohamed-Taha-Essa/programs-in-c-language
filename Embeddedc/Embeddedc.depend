@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601717930 source:d:\empeded_system\diplma_embedded system\embeded_codes\embeddedc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1601717671 d:\empeded_system\diplma_embedded system\embeded_codes\embeddedc\main.h
+

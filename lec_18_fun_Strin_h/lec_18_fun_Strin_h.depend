@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600116343 source:d:\empeded_system\diplma_embedded system\embeded_codes\lec_18_fun_strin_h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1600116343 d:\empeded_system\diplma_embedded system\embeded_codes\lec_18_fun_strin_h\main.h
+

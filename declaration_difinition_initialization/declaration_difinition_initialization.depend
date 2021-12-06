@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594844755 source:d:\empeded_system\diplma_embedded system\embeded_codes\declaration_difinition_initialization\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594845466 source:d:\empeded_system\diplma_embedded system\embeded_codes\declaration_difinition_initialization\difinition.c
+

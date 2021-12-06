@@ -1,0 +1,5 @@
+Id:11,Name:temp sensor one ,Value:0.000000#
+Id:11,Name:temp sensor one ,Value:0.000000#
+Id:11,Name:temp sensor one ,Value:0.000000#
+Id:11,Name:temp sensor one ,Value:0.000000#
+Id:11,Name:temp sensor one ,Value:0.000000#

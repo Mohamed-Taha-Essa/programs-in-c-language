@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600012688 source:d:\empeded_system\diplma_embedded system\embeded_codes\lec_18_pointer_string\main.c
+	<stdio.h>
+	<stdlib.h>
+
